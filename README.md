@@ -1,4 +1,4 @@
-To run the application after cloning from GitHub, follow these steps:
+To run the application after cloning from GitHub, follow these steps: 
 
 Clone the Repository:
 bash
